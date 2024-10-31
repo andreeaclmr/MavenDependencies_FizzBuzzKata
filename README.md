@@ -1,6 +1,8 @@
 # FizzBuzz Kata
 Create a Java Test using Junit 5, with the objective of creating automated tests.
 
+### Step 1: set JUnit 5 & Maven dependencies
+
 ### Methodologies
 - [x] Git
 - [x] Git Hub
