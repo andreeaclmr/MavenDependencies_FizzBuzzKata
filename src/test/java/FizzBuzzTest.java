@@ -18,8 +18,6 @@ public class FizzBuzzTest {
 
         //Then
         assertEquals("Fizz", result);
-
-
     }
 
 @Test
