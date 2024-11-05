@@ -60,7 +60,7 @@ String result = objectOfFizzBuss.checkNumber(15);
 String result = objectOfFizzNumber.checkNumber(7);
 
     //Then
-    assertEquals("result", result);
+    assertEquals("7", result);
 }
 }
 

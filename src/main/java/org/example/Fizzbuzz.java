@@ -14,7 +14,7 @@ public class Fizzbuzz {
             return "Buzz";
         }
         if((number%3 != 0) && (number%5 != 0)){
-            return "result";
+            return String.valueOf(number);
         }
         return null;
     }
